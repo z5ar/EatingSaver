@@ -7,8 +7,8 @@
 // @match        https://music.163.com
 // @match        https://y.qq.com
 // @match        https://*.kugou.com
-// @match        http://*.kuwo.cn/
-// @match        https://bilibili.com
+// @match        http://*.kuwo.cn
+// @match        https://*.bilibili.com
 // @icon         https://www.google.com/s2/favicons?domain=csdn.net
 // @grant        none
 // ==/UserScript==
